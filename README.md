@@ -51,10 +51,12 @@ PCA Components: 11 (90% variance retained)
 PC1 Variance: 31.05%
 
 5. SVR Model Comparison
-Kernel RMSE Status
-RBF 2.349 🥇 Best
-Polynomial 2.365 🥈
-Linear 2.429 🥉
+
+Kernel         RMSE        Status
+
+RBF            2.349       🥇 Best
+Polynomial     2.365       🥈
+Linear         2.429       🥉
 
 📈 Key Insights
 
@@ -109,11 +111,6 @@ RMSE RBF: 2.3487 ← Best Model
 RMSE Linear: 2.4290
 RMSE Polynomial: 2.3654
 
-🤝 Contributing
-Fork repository
-Add new visualizations/models
-Update outlier detection
-Submit PR with test results
 
 👩‍💻 Author
 
