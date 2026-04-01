@@ -173,7 +173,7 @@ housing-price-pipeline/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/housing-price-pipeline.git
+git clone https://github.com/Nourhanmohamed12/computation.git
 cd housing-price-pipeline
 ```
 
